@@ -17,20 +17,4 @@ if len(num2) >= 1:
     num2.insert(0, last_number)
 print(num2)
 
-num3 = []
-
-if len(num3) >= 1:
-    last_number = num3.pop()
-    num3.insert(0, last_number)
-print(num3)
-
-num4 = [12, 3, 4, 10, 8]
-
-if len(num4) >= 1:
-    last_number = num4.pop()
-    num4.insert(0, last_number)
-print(num4)
-
-
-
 
